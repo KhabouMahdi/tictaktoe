@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tictaktoe", "tictaktoe\tictaktoe.csproj", "{E20C891F-E2DB-4D0B-85A8-DF862FB1A48C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "gameXO", "gameXO\gameXO.vdproj", "{DF815F2A-5C30-4FF8-AC81-1FF33CBB2CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20C891F-E2DB-4D0B-85A8-DF862FB1A48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20C891F-E2DB-4D0B-85A8-DF862FB1A48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20C891F-E2DB-4D0B-85A8-DF862FB1A48C}.Debug|x86.ActiveCfg = Debug|x86
+		{E20C891F-E2DB-4D0B-85A8-DF862FB1A48C}.Debug|x86.Build.0 = Debug|x86
+		{E20C891F-E2DB-4D0B-85A8-DF862FB1A48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20C891F-E2DB-4D0B-85A8-DF862FB1A48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20C891F-E2DB-4D0B-85A8-DF862FB1A48C}.Release|x86.ActiveCfg = Release|x86
+		{E20C891F-E2DB-4D0B-85A8-DF862FB1A48C}.Release|x86.Build.0 = Release|x86
+		{DF815F2A-5C30-4FF8-AC81-1FF33CBB2CDD}.Debug|Any CPU.ActiveCfg = Debug
+		{DF815F2A-5C30-4FF8-AC81-1FF33CBB2CDD}.Debug|x86.ActiveCfg = Debug
+		{DF815F2A-5C30-4FF8-AC81-1FF33CBB2CDD}.Release|Any CPU.ActiveCfg = Release
+		{DF815F2A-5C30-4FF8-AC81-1FF33CBB2CDD}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12E77AAA-C2CC-44CE-B704-6A46A4187699}
+	EndGlobalSection
+EndGlobal
